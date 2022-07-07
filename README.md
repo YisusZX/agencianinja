@@ -10,6 +10,11 @@ Da un ejemplo Instalación 🔧 Una serie de ejemplos paso a paso que te dice lo
 
 Dí cómo será ese paso
 
+Algunas webs permitidas para realizar la acción:
+
+https://sevilla24h.com/ 
+https://malaga-24h.com/
+
 Da un ejemplo Y repite
 
 hasta finalizar Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo
