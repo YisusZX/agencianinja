@@ -14,6 +14,8 @@ Algunas webs permitidas para realizar la acción:
 
 https://sevilla24h.com/ 
 https://malaga-24h.com/
+https://palencia24h.com/
+https://sansebastian24h.com/
 
 Da un ejemplo Y repite
 
