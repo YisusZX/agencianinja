@@ -16,6 +16,8 @@ https://sevilla24h.com/
 https://malaga-24h.com/
 https://palencia24h.com/
 https://sansebastian24h.com/
+https://cadiz24h.com/
+https://asturias24h.com/
 
 Da un ejemplo Y repite
 
